@@ -1,0 +1,23 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travelname{
+border:1px;
+}
+.travelname img{
+width:100%;
+}
+.moviess{
+font-size:17px;
+padding:6px 22px;
+border-radius:8px;
+margin-bottom: 15px;
+width:100%;
+}
+.moviess i{
+float: right;
+}
+.moviec span{
+color:navy;
+}
